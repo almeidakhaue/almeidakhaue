@@ -1,10 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <body>
-  <div class="container">
-    <div class="header">
-      <img src="https://via.placeholder.com/800x200?text=Bem-vindo+ao+meu+GitHub!" alt="Banner de Boas-vindas">
-    </div>
+
     <div class="content">
       <h2>Olá, eu sou o Khauê! 👋</h2>
       <p>📍 Paranaense, 25 anos</p>
